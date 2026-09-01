@@ -1,0 +1,101 @@
+Order_ID,Timestamp,Customer_ID,Product_ID,Product_Name,Category,Quantity,Unit_Price,Total_Amount,Payment_Method,Payment_Status,City
+ORD1030,2026-08-15 18:31:38,C136,P102,Bluetooth Speaker,Electronics,3,2299,6897,Credit Card,Failed,Noida
+ORD1059,2026-08-15 18:33:03,C124,P107,Olive Oil,Grocery,2,799,1598,UPI,Successful,Chennai
+ORD1009,2026-08-15 18:33:19,C150,P104,T-Shirt,Fashion,1,599,599,Debit Card,Successful,Mumbai
+ORD1044,2026-08-15 18:34:04,C106,P108,Mixer Grinder,Home & Kitchen,2,3299,6598,Credit Card,Failed,Mumbai
+ORD1014,2026-08-15 18:34:43,C159,P107,Olive Oil,Grocery,3,799,2397,COD,Successful,Chennai
+ORD1031,2026-08-15 18:35:02,C115,P104,T-Shirt,Fashion,1,599,599,UPI,Successful,Delhi
+ORD1053,2026-08-15 18:37:30,C110,P105,Running Shoes,Fashion,1,2199,2199,Debit Card,Failed,Pune
+ORD1048,2026-08-15 18:39:08,C130,P105,Running Shoes,Fashion,4,2199,8796,Debit Card,Successful,Mumbai
+ORD1050,2026-08-15 18:39:14,C157,P104,T-Shirt,Fashion,3,599,1797,UPI,Successful,Hyderabad
+ORD1017,2026-08-15 18:39:38,C132,P106,Coffee,Grocery,2,450,900,UPI,Failed,Delhi
+ORD1037,2026-08-15 18:39:46,C112,P109,Bedsheet,Home & Kitchen,4,999,3996,Debit Card,Pending,Jaipur
+ORD1023,2026-08-15 18:40:38,C149,P110,Face Wash,Beauty,2,399,798,Credit Card,Successful,Lucknow
+ORD1042,2026-08-15 18:40:46,C119,P107,Olive Oil,Grocery,4,799,3196,Credit Card,Successful,Delhi
+ORD1051,2026-08-15 18:40:58,C154,P106,Coffee,Grocery,3,450,1350,COD,Pending,Pune
+ORD1084,2026-08-15 18:41:03,C129,P109,Bedsheet,Home & Kitchen,4,999,3996,Debit Card,Pending,Hyderabad
+ORD1012,2026-08-15 18:41:21,C125,P103,Keyboard,Electronics,2,2499,4998,Debit Card,Pending,Lucknow
+ORD1100,2026-08-15 18:41:39,C139,P105,Running Shoes,Fashion,3,2199,6597,UPI,Failed,Bengaluru
+ORD1034,2026-08-15 18:43:11,C107,P108,Mixer Grinder,Home & Kitchen,4,3299,13196,Net Banking,Successful,Chennai
+ORD1073,2026-08-15 18:43:17,C143,P109,Bedsheet,Home & Kitchen,2,999,1998,Net Banking,Pending,Bengaluru
+ORD1011,2026-08-15 18:44:30,C145,P106,Coffee,Grocery,3,450,1350,UPI,Successful,Noida
+ORD1095,2026-08-15 18:44:38,C121,P107,Olive Oil,Grocery,3,799,2397,Debit Card,Pending,Kolkata
+ORD1081,2026-08-15 18:45:08,C152,P102,Bluetooth Speaker,Electronics,4,2299,9196,COD,Successful,Jaipur
+ORD1004,2026-08-15 18:45:14,C138,P109,Bedsheet,Home & Kitchen,4,999,3996,Debit Card,Pending,Delhi
+ORD1097,2026-08-15 18:45:30,C150,P101,Wireless Earbuds,Electronics,3,1499,4497,UPI,Successful,Delhi
+ORD1087,2026-08-15 18:45:59,C145,P103,Keyboard,Electronics,2,2499,4998,Credit Card,Pending,Hyderabad
+ORD1061,2026-08-15 18:46:21,C152,P110,Face Wash,Beauty,2,399,798,Credit Card,Successful,Kolkata
+ORD1025,2026-08-15 18:46:32,C116,P106,Coffee,Grocery,3,450,1350,COD,Successful,Mumbai
+ORD1096,2026-08-15 18:47:25,C131,P105,Running Shoes,Fashion,4,2199,8796,UPI,Successful,Lucknow
+ORD1047,2026-08-15 18:48:00,C143,P109,Bedsheet,Home & Kitchen,3,999,2997,Debit Card,Successful,Hyderabad
+ORD1086,2026-08-15 18:48:44,C121,P105,Running Shoes,Fashion,2,2199,4398,COD,Successful,Mumbai
+ORD1021,2026-08-15 18:50:14,C111,P106,Coffee,Grocery,1,450,450,Net Banking,Pending,Delhi
+ORD1056,2026-08-15 18:52:58,C141,P101,Wireless Earbuds,Electronics,1,1499,1499,Debit Card,Successful,Bengaluru
+ORD1092,2026-08-15 18:53:08,C147,P101,Wireless Earbuds,Electronics,4,1499,5996,Credit Card,Pending,Jaipur
+ORD1005,2026-08-15 18:53:25,C110,P103,Keyboard,Electronics,4,2499,9996,Credit Card,Successful,Chennai
+ORD1066,2026-08-15 18:54:10,C126,P102,Bluetooth Speaker,Electronics,3,2299,6897,COD,Failed,Chennai
+ORD1010,2026-08-15 18:56:08,C130,P104,T-Shirt,Fashion,1,599,599,Debit Card,Successful,Bengaluru
+ORD1006,2026-08-15 18:56:08,C123,P102,Bluetooth Speaker,Electronics,1,2299,2299,Debit Card,Successful,Noida
+ORD1019,2026-08-15 18:56:15,C130,P102,Bluetooth Speaker,Electronics,4,2299,9196,COD,Failed,Pune
+ORD1069,2026-08-15 18:56:29,C113,P110,Face Wash,Beauty,1,399,399,Debit Card,Failed,Delhi
+ORD1041,2026-08-15 18:56:51,C160,P107,Olive Oil,Grocery,1,799,799,Net Banking,Successful,Pune
+ORD1093,2026-08-15 18:57:05,C137,P103,Keyboard,Electronics,1,2499,2499,UPI,Failed,Mumbai
+ORD1015,2026-08-15 18:57:12,C110,P104,T-Shirt,Fashion,4,599,2396,Debit Card,Pending,Bengaluru
+ORD1074,2026-08-15 18:57:55,C154,P110,Face Wash,Beauty,3,399,1197,UPI,Failed,Pune
+ORD1088,2026-08-15 18:58:01,C135,P102,Bluetooth Speaker,Electronics,4,2299,9196,Net Banking,Successful,Kolkata
+ORD1075,2026-08-15 18:59:32,C139,P105,Running Shoes,Fashion,2,2199,4398,Debit Card,Failed,Jaipur
+ORD1038,2026-08-15 19:00:27,C107,P104,T-Shirt,Fashion,1,599,599,UPI,Failed,Lucknow
+ORD1035,2026-08-15 19:02:04,C144,P107,Olive Oil,Grocery,4,799,3196,UPI,Successful,Delhi
+ORD1090,2026-08-15 19:02:45,C123,P110,Face Wash,Beauty,4,399,1596,Debit Card,Successful,Kolkata
+ORD1091,2026-08-15 19:03:31,C118,P107,Olive Oil,Grocery,2,799,1598,Net Banking,Successful,Jaipur
+ORD1080,2026-08-15 19:03:56,C116,P104,T-Shirt,Fashion,4,599,2396,Credit Card,Pending,Delhi
+ORD1003,2026-08-15 19:04:41,C102,P104,T-Shirt,Fashion,2,599,1198,COD,Failed,Hyderabad
+ORD1022,2026-08-15 19:04:51,C156,P105,Running Shoes,Fashion,2,2199,4398,Debit Card,Successful,Lucknow
+ORD1032,2026-08-15 19:05:17,C118,P106,Coffee,Grocery,1,450,450,Net Banking,Successful,Hyderabad
+ORD1077,2026-08-15 19:05:23,C122,P102,Bluetooth Speaker,Electronics,3,2299,6897,UPI,Failed,Hyderabad
+ORD1029,2026-08-15 19:05:31,C108,P106,Coffee,Grocery,4,450,1800,Credit Card,Pending,Hyderabad
+ORD1070,2026-08-15 19:05:41,C144,P107,Olive Oil,Grocery,1,799,799,Credit Card,Failed,Chennai
+ORD1028,2026-08-15 19:07:00,C146,P107,Olive Oil,Grocery,2,799,1598,Debit Card,Successful,Kolkata
+ORD1027,2026-08-15 19:07:43,C117,P103,Keyboard,Electronics,4,2499,9996,COD,Successful,Noida
+ORD1057,2026-08-15 19:08:29,C108,P108,Mixer Grinder,Home & Kitchen,4,3299,13196,UPI,Successful,Bengaluru
+ORD1002,2026-08-15 19:10:30,C103,P102,Bluetooth Speaker,Electronics,1,2299,2299,UPI,Pending,Mumbai
+ORD1068,2026-08-15 19:10:55,C123,P101,Wireless Earbuds,Electronics,1,1499,1499,Debit Card,Pending,Kolkata
+ORD1024,2026-08-15 19:11:05,C132,P109,Bedsheet,Home & Kitchen,1,999,999,UPI,Successful,Mumbai
+ORD1079,2026-08-15 19:11:55,C130,P104,T-Shirt,Fashion,4,599,2396,Net Banking,Successful,Noida
+ORD1046,2026-08-15 19:12:28,C127,P104,T-Shirt,Fashion,1,599,599,COD,Successful,Noida
+ORD1049,2026-08-15 19:12:36,C107,P101,Wireless Earbuds,Electronics,4,1499,5996,UPI,Failed,Lucknow
+ORD1085,2026-08-15 19:12:59,C118,P105,Running Shoes,Fashion,4,2199,8796,Net Banking,Successful,Mumbai
+ORD1018,2026-08-15 19:13:02,C151,P102,Bluetooth Speaker,Electronics,2,2299,4598,Net Banking,Successful,Noida
+ORD1065,2026-08-15 19:15:15,C126,P104,T-Shirt,Fashion,1,599,599,Debit Card,Successful,Pune
+ORD1071,2026-08-15 19:15:32,C140,P107,Olive Oil,Grocery,1,799,799,Debit Card,Successful,Mumbai
+ORD1060,2026-08-15 19:15:43,C123,P104,T-Shirt,Fashion,2,599,1198,COD,Successful,Kolkata
+ORD1072,2026-08-15 19:15:43,C121,P105,Running Shoes,Fashion,3,2199,6597,Net Banking,Pending,Pune
+ORD1052,2026-08-15 19:15:47,C120,P110,Face Wash,Beauty,1,399,399,UPI,Failed,Bengaluru
+ORD1099,2026-08-15 19:15:54,C137,P103,Keyboard,Electronics,4,2499,9996,Credit Card,Successful,Jaipur
+ORD1045,2026-08-15 19:16:17,C126,P110,Face Wash,Beauty,1,399,399,UPI,Successful,Noida
+ORD1076,2026-08-15 19:16:19,C133,P108,Mixer Grinder,Home & Kitchen,4,3299,13196,Net Banking,Successful,Bengaluru
+ORD1020,2026-08-15 19:16:38,C144,P109,Bedsheet,Home & Kitchen,1,999,999,COD,Successful,Pune
+ORD1054,2026-08-15 19:19:11,C114,P110,Face Wash,Beauty,2,399,798,Debit Card,Successful,Lucknow
+ORD1033,2026-08-15 19:19:34,C137,P109,Bedsheet,Home & Kitchen,2,999,1998,Net Banking,Failed,Hyderabad
+ORD1007,2026-08-15 19:20:00,C135,P105,Running Shoes,Fashion,1,2199,2199,UPI,Pending,Kolkata
+ORD1062,2026-08-15 19:20:28,C151,P101,Wireless Earbuds,Electronics,2,1499,2998,Net Banking,Successful,Hyderabad
+ORD1001,2026-08-15 19:20:49,C116,P102,Bluetooth Speaker,Electronics,1,2299,2299,Credit Card,Successful,Bengaluru
+ORD1016,2026-08-15 19:21:11,C128,P104,T-Shirt,Fashion,3,599,1797,COD,Failed,Kolkata
+ORD1043,2026-08-15 19:21:15,C104,P110,Face Wash,Beauty,1,399,399,UPI,Successful,Noida
+ORD1039,2026-08-15 19:21:38,C111,P101,Wireless Earbuds,Electronics,1,1499,1499,Net Banking,Successful,Jaipur
+ORD1083,2026-08-15 19:21:45,C140,P109,Bedsheet,Home & Kitchen,3,999,2997,COD,Pending,Kolkata
+ORD1063,2026-08-15 19:23:57,C125,P105,Running Shoes,Fashion,2,2199,4398,UPI,Successful,Jaipur
+ORD1036,2026-08-15 19:24:51,C116,P107,Olive Oil,Grocery,3,799,2397,Credit Card,Successful,Hyderabad
+ORD1078,2026-08-15 19:25:15,C110,P105,Running Shoes,Fashion,2,2199,4398,UPI,Successful,Delhi
+ORD1026,2026-08-15 19:25:54,C149,P102,Bluetooth Speaker,Electronics,4,2299,9196,COD,Successful,Bengaluru
+ORD1064,2026-08-15 19:25:56,C123,P104,T-Shirt,Fashion,2,599,1198,Debit Card,Pending,Hyderabad
+ORD1008,2026-08-15 19:26:49,C157,P102,Bluetooth Speaker,Electronics,3,2299,6897,Debit Card,Failed,Noida
+ORD1089,2026-08-15 19:27:03,C125,P101,Wireless Earbuds,Electronics,2,1499,2998,COD,Pending,Delhi
+ORD1058,2026-08-15 19:27:10,C138,P109,Bedsheet,Home & Kitchen,1,999,999,COD,Successful,Bengaluru
+ORD1098,2026-08-15 19:27:29,C140,P104,T-Shirt,Fashion,2,599,1198,Credit Card,Successful,Hyderabad
+ORD1013,2026-08-15 19:27:44,C115,P104,T-Shirt,Fashion,3,599,1797,UPI,Successful,Chennai
+ORD1055,2026-08-15 19:27:57,C106,P108,Mixer Grinder,Home & Kitchen,3,3299,9897,Net Banking,Successful,Pune
+ORD1082,2026-08-15 19:28:06,C130,P101,Wireless Earbuds,Electronics,2,1499,2998,Credit Card,Successful,Jaipur
+ORD1040,2026-08-15 19:29:13,C158,P108,Mixer Grinder,Home & Kitchen,2,3299,6598,UPI,Pending,Bengaluru
+ORD1094,2026-08-15 19:29:22,C112,P107,Olive Oil,Grocery,2,799,1598,UPI,Pending,Pune
+ORD1067,2026-08-15 19:30:04,C112,P101,Wireless Earbuds,Electronics,1,1499,1499,COD,Successful,Pune
