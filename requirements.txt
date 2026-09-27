@@ -1,0 +1,7 @@
+kafka-python
+pymongo
+python-dotenv
+streamlit
+plotly
+streamlit-autorefresh
+pandas
